@@ -10,3 +10,5 @@ Main tasks:
 - own implementation of entropy and information gain calculation on a toy dataset;
 - own implementation of decision tree (with binary features only) on a toy dataset;
 - basic work with DecisionTreeClassifier and GridSearhCV from scikit-learn on the [UCI Adult dataset](http://archive.ics.uci.edu/ml/machine-learning-databases/adult/).
+
+[Results](https://docs.google.com/forms/d/e/1FAIpQLSft9BcYHLuhg5ZzN_ANb1wTp49BUAosrn-Y4Hx2ZdLjFsadDg/viewscore?viewscore=AE0zAgD5SyYYEpya33xKnGH9YcnP113pq5fGhnHusVB7O0sBFGyEPccvcyS9P3NCGmHM2Is) of assignment test - 10/10.
